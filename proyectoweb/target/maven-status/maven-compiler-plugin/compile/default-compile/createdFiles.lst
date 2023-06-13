@@ -1,0 +1,9 @@
+model\UsuarioNequiVO.class
+model\bolsilloDAO.class
+model\bolsilloVO.class
+controller\Bolsillo.class
+model\UsuarioDaviplataVO.class
+model\UsuarioNequiDAO.class
+controller\Usuario.class
+model\Conexion.class
+model\UsuarioDaviplataDAO.class
